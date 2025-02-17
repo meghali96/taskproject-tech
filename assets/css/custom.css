@@ -1,0 +1,3 @@
+.bg-primary, .pagination-bx.gray .pagination>li.active>a, .pagination-bx.gray .pagination>li>a:hover {
+    background-color: #3dab6f !important;
+}
